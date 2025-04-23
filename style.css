@@ -32,6 +32,15 @@ body {
     animation: float 3s ease-in-out infinite;
     margin-bottom: 20px;
   }
+
+  .hobbies {
+    font-family: 'Caveat', cursive;
+    font-size: 1.8rem;
+    color: #fff8dc;
+    margin-top: 20px;
+    animation: fadeIn 2s ease-in;
+  }
+  
   
   /* Floating animation keyframes */
   @keyframes float {
