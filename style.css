@@ -9,7 +9,8 @@ body {
   animation: fadeIn 1.2s ease-in;
   }
   
-  h1 {
+  h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
     color: #ffffff;
   background-color: rgba(0, 0, 0, 0.2);
   padding: 10px 20px;
