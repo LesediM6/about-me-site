@@ -1,5 +1,4 @@
 body {
-    animation: fadeIn 1.2s ease-in;
     font-family: 'Quicksand', sans-serif;
   background: linear-gradient(to right, #007acc, #00c9a7);
   color: #ffffff;
@@ -7,6 +6,7 @@ body {
   padding: 50px;
   min-height: 100vh;
   margin: 0;
+  animation: fadeIn 1.2s ease-in;
   }
   
   h1 {
