@@ -41,6 +41,25 @@ body {
     animation: fadeIn 2s ease-in;
   }
   
+  @media (max-width: 600px) {
+    body {
+      padding: 30px;
+    }
+  
+    .avatar {
+      width: 100px;
+      height: 100px;
+    }
+  
+    h1 {
+      font-size: 1.8rem;
+    }
+  
+    p, .hobbies {
+      font-size: 1.1rem;
+    }
+  }
+  
   
   /* Floating animation keyframes */
   @keyframes float {
